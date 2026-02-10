@@ -68,7 +68,7 @@ objective:
 owner:
     name: Rani Jawed
     role: Full Stack Developer & AI Engineer
-    profile_image: ""
+    profile_image: "profile.jpg"
     logo: "logo.svg"
 
 frontend:
